@@ -142,11 +142,7 @@
 
 
 2. Create an array of numbers and use the `map()` method with an anonymous function to square each number in the array.
-
-
    Example Input: [1, 2, 3, 4, 5]
-
-
    Example Output: [1, 4, 9, 16, 25]
 
 
